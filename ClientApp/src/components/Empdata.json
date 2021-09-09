@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "empname": "Jack",
+    "email": "jack@gmail.com",
+    "mobile": "345367"
+  },
+  {
+    "id": 2,
+    "empname": "Peter",
+    "email": "pet@gmail.com",
+    "mobile": "934764"
+  },
+  {
+    "id": 3,
+    "empname": "Charan",
+    "email": "charan@gmail.com",
+    "mobile": "635473"
+  },
+  {
+    "id": 4,
+    "empname": "Abdul",
+    "email": "ab@gmail.com",
+    "mobile": "123555"
+  }
+]
